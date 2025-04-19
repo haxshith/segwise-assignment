@@ -1,5 +1,5 @@
 
-# 🎯 Playwright UI - Creative Filters & Data Explorer
+# 🎯 segwise-assignment - Creative Filters & Data Explorer
 
 A React + TypeScript project built with Next.js to demonstrate dynamic filtering, searching, and data visualization for creative performance data. The UI is styled with Tailwind CSS and features modular components, interactive previews, and a custom-designed table interface.
 
@@ -7,7 +7,7 @@ A React + TypeScript project built with Next.js to demonstrate dynamic filtering
 
 ## 🚀 Live Demo
 
-🔗 [Hosted Link](https://your-deployment-link.vercel.app)
+🔗 [segwise-io](https://segwise-ui-dash.vercel.app/)
 
 ---
 
@@ -114,8 +114,8 @@ playwright-ui/
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/haxshith/playwright-ui.git
-cd playwright-ui
+git https://github.com/haxshith/segwise-assignment.git
+cd segwise-assignment
 ```
 
 ### 2. Install Dependencies
@@ -148,6 +148,6 @@ Deployed using **Vercel** for a fast, optimized web experience.
 
 - **Banothu Harshith**
 - GitHub: [@haxshith](https://github.com/haxshith)
-- LinkedIn: [Banothu Harshith](https://linkedin.com/in/banothuharshith)
+- LinkedIn: [Banothu Harshith](https://www.linkedin.com/in/banothu-harshith10/)
 
 ---
